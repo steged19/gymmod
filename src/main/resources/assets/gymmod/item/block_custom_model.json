@@ -1,0 +1,6 @@
+{
+  "parent": "gymmod:block/block_custom_model",
+  "textures": {
+    "all": "gymmod:block/block_custom_model"
+  }
+}

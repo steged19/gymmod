@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "gymmod:block/block_custom_model"
+    }
+  }
+}
